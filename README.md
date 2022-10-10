@@ -1,2 +1,2 @@
 # Sales-Market-Analysis.
-Data Analys Project with Python (Machine learning)
+Data Analysis Project with Python (used Machine learning)
